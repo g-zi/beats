@@ -4,9 +4,10 @@ A small box that is connected to the computer via USB and shows the beat as a cl
 
 The Beat Counter knows 3 operating modes:
 
-MIDI (beat clock and metronome)
-Scanners (and moving heads with up to 8 scanners with 8 channels or 4 scanners with up to 16 channels)
-COB (Pixbar and Pattern)
+- MIDI (beat clock and metronome)
+- Scanners (and moving heads with up to 8 scanners with 8 channels or 4 scanners with up to 16 channels)
+- COB (Pixbar and Pattern)
+
 Can be operated with anything that sends MIDI commands: Ableton Live, Serato, Traktor …
 
 Beat length adjustable, inclined beats such as 9 are also adjustable.
@@ -18,7 +19,13 @@ SD card slot accessible from the rear.
 The housing is designed with OpenSCAD and is printed with 3D printers (Form3 or FDM)
 The current version uses a Teensy 3.6, the next version will have a Teensy 4.1 (600Mhz).
 The board is two-sided and created with Eagle.
-Here some videos: Controlling scanners / moving heads: https://www.youtube.com/watch?v=9kyjajE7mRk Animation of the circuit board: https://www.youtube.com/watch?v=K_6d6vQXQpI Inner workings with a few functions: https://www.youtube.com/watch?v=Ms0J2bLOR1w First version of the Beat Counter with DMX light control: https://www.youtube.com/watch?v=BX3hZSje4Ws Here you can switch to pattern in disco mode. Also works with bars: https://www.youtube.com/watch?v=ibh8aw3B2aw&t=53s
+
+Here some videos: 
+Controlling scanners / moving heads: https://www.youtube.com/watch?v=9kyjajE7mRk 
+Animation of the circuit board: https://www.youtube.com/watch?v=K_6d6vQXQpI 
+Inner workings with a few functions: https://www.youtube.com/watch?v=Ms0J2bLOR1w 
+First version of the Beat Counter with DMX light control: https://www.youtube.com/watch?v=BX3hZSje4Ws 
+Also works with bars: https://www.youtube.com/watch?v=ibh8aw3B2aw&t=53s
 
 In MIDI mode, the key matrix is used as pressure-sensitive pads for e.g. Ableton Live. All buttons send MIDI commands. The two encoders send MIDI commands for buttons and each can be switched between 3 settings. MIDI channel and address can be set.
 
