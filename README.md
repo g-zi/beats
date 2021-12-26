@@ -1,4 +1,5 @@
-# BEATS - Beat Couter, MIDI controller and DMX light controller in one
+# BEATS
+## Beat Couter, MIDI controller and DMX light controller in one
 
 A small box that is connected to the computer via USB and shows the beat as a clock and digits so that can be mixed in the beat. It can be used as a MIDI and DMX controller and can control a lighting system in the beat.
 
@@ -21,11 +22,11 @@ The current version uses a Teensy 3.6, the next version will have a Teensy 4.1 (
 The board is two-sided and created with Eagle.
 
 Here some videos: 
-Controlling scanners / moving heads: https://www.youtube.com/watch?v=9kyjajE7mRk 
-Animation of the circuit board: https://www.youtube.com/watch?v=K_6d6vQXQpI 
-Inner workings with a few functions: https://www.youtube.com/watch?v=Ms0J2bLOR1w 
-First version of the Beat Counter with DMX light control: https://www.youtube.com/watch?v=BX3hZSje4Ws 
-Also works with bars: https://www.youtube.com/watch?v=ibh8aw3B2aw&t=53s
+- Controlling scanners / moving heads: https://www.youtube.com/watch?v=9kyjajE7mRk 
+- Animation of the circuit board: https://www.youtube.com/watch?v=K_6d6vQXQpI 
+- Inner workings with a few functions: https://www.youtube.com/watch?v=Ms0J2bLOR1w 
+- First version of the Beat Counter with DMX light control: https://www.youtube.com/watch?v=BX3hZSje4Ws 
+- Also works with bars: https://www.youtube.com/watch?v=ibh8aw3B2aw&t=53s
 
 In MIDI mode, the key matrix is used as pressure-sensitive pads for e.g. Ableton Live. All buttons send MIDI commands. The two encoders send MIDI commands for buttons and each can be switched between 3 settings. MIDI channel and address can be set.
 
@@ -37,7 +38,7 @@ The COB mode is for COB-LED walls, until now for a matrix of 8x8 COBs. A countin
 
 The housing is designed to be as stable as possible. On the underside there are bars under the key matrix so that nothing can bend or break even with firm pressure. The two screws for the circuit board are in the immediate vicinity of the encoder, even here nothing can be broken by applying too much pressure to the encoder. An M8 nut will also be integrated into the housing on the underside so that the device can also be screwed on. The size of the Beat Counter is kept compact and can therefore be mounted within sight.
 
-# Further development:
+## Further development:
 
 The USB host port can be used to connect external devices, keyboard, drum pads etc. (Korg, Akai) https://www.pjrc.com/wp-content/uploads/2020/05/teensy41_usbhost3.jpg https://forum.pjrc.com/teensy41_usbhost2.jpg
 
