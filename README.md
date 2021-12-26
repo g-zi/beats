@@ -4,7 +4,7 @@
 A small box that is connected to the computer via USB and shows the beat as a clock and digits so that can be mixed in the beat. It can be used as a MIDI and DMX controller and can control a lighting system in the beat.
 
 ![BEATS open](BEATS_open.jpeg)
-![BEATS Case](BEATS_case.jpeg)
+![BEATS Case](BEATS_Case.jpeg)
 
 The Beat Counter knows 3 operating modes:
 
