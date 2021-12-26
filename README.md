@@ -28,9 +28,8 @@ Here some videos:
 - Controlling scanners / moving heads: https://www.youtube.com/watch?v=9kyjajE7mRk
 - Animation of the circuit board: https://www.youtube.com/watch?v=K_6d6vQXQpI 
 - Inner workings with a few functions: https://www.youtube.com/watch?v=Ms0J2bLOR1w 
-- First version of the Beat Counter with DMX light control: https://www.youtube.com/watch?v=BX3hZSje4Ws 
 - 4 x Showtec Pixel Square 16 COB (old version): https://www.youtube.com/watch?v=BX3hZSje4Ws
-- Also works with bars: https://www.youtube.com/watch?v=ibh8aw3B2aw
+- Also works with bars (old version): https://www.youtube.com/watch?v=ibh8aw3B2aw
 - MIDI Beat Counter Setup and Menues Part 1: https://www.youtube.com/watch?v=dCm0thBqy6s
 - MIDI Beat Counter Setup and Menues Part 2: https://www.youtube.com/watch?v=OodJnmjo3fk
 
