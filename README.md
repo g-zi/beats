@@ -8,11 +8,11 @@ A small box that is connected to the computer via USB and shows the beat as a cl
 
 The Beat Counter knows 3 operating modes:
 
-- MIDI (beat clock and metronome)
+- MIDI (drum pad, beat clock and metronome)
 - Scanners (and moving heads with up to 8 scanners with 8 channels or 4 scanners with up to 16 channels)
 - COB (Pixbar and Pattern)
 
-Can be operated with anything that sends MIDI commands: Ableton Live, Serato, Traktor …
+Can operate with anything that sends/receives MIDI commands: Ableton Live, Serato, Traktor …
 
 Beat length adjustable, inclined beats such as 9 are also adjustable.
 The key matrix is pressure-sensitive and illuminated with RGB LEDs. A milky silicone pad is attached to the key matrix.
